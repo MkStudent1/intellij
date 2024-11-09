@@ -1,0 +1,2 @@
+# intellij
+ for scala
